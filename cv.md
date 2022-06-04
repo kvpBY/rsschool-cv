@@ -3,7 +3,7 @@
 ## My Contact Info
 - Phone: +375336390663
 - E-mail: kvpjke@gmail.com
-- LinkedIn: valentin-kim-4a9119151
+- LinkedIn: [Valentin Kim](https://www.linkedin.com/in/valentin-kim-4a9119151)
 - GitHub: kvpBY
 
 ## About Myself
@@ -18,3 +18,22 @@ Sep. 2019 - Oct. 2021 - 2 years. 2 months.
 
 **Lead Community Manager WoT - Wargaming.net.**
 Oct. 2017  - September. 2019 - 2 years
+
+## My projects
+[You can read about the projects I've worked on here.](https://www.linkedin.com/in/valentin-kim-4a9119151/details/projects/)
+
+## Skills
+- Product Management
+- Management
+- Community Management
+
+## Education
+- [Analytics-Based Product Management. Go Practice.](https://gopractice.ru/course/pm/certificate/63c06b89-7e1c-4b9f-ae6f-6a6d4adf0570) Date of issue: Oct. 2019 г. - No expiration date
+
+- Certificate Managers’ Bootcamp Program. 
+Date of issue: Aug. 2017 г. - No expiration date
+
+## Language:
+- [English  EF SET English Certificate 46/100 (B1 Intermediate)](https://www.efset.org/cert/YRqgSX)
+- Russian language
+- Belarusian language
