@@ -9,20 +9,8 @@ body {
   color: #000000;
 }
 
-.headr {
-  border: 1px solid red;
-}
-
-main {
-  border: 1px solid red;
-}
-
-.footer {
-  border: 1px solid red;
-}
-
 .container {
-  max-width: 1440px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -45,8 +33,7 @@ main {
   color: rgb(6, 115, 129);
   text-decoration: underline;
 }
-
-html {
+section html {
   scroll-behavior: smooth;
 }
 
@@ -66,6 +53,26 @@ html {
 }
 
 .section-title {
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 5px;
+  color: #000000;
+}
+
+.container footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  color: rgb(0, 0, 0);
+  padding: 0 20px;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 18px;
   font-weight: 600;
   text-transform: capitalize;
